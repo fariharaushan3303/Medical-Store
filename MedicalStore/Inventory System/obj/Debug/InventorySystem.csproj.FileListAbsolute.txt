@@ -1,0 +1,16 @@
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Admin.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Client.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Company.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.ForgotPassword.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Form1.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.ManageAdmin.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Registration.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Search.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Sell.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.SignIn.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Stock.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.StorePanel.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Company.resources

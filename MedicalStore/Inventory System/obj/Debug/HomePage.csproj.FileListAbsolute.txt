@@ -1,0 +1,68 @@
+F:\MedicalStore\HomePage\bin\Debug\HomePage.exe.config
+F:\MedicalStore\HomePage\bin\Debug\HomePage.exe
+F:\MedicalStore\HomePage\bin\Debug\HomePage.pdb
+F:\MedicalStore\HomePage\obj\Debug\HomePage.csprojResolveAssemblyReference.cache
+F:\MedicalStore\HomePage\obj\Debug\HomePage.Form1.resources
+F:\MedicalStore\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+F:\MedicalStore\HomePage\obj\Debug\HomePage.csproj.GenerateResource.Cache
+F:\MedicalStore\HomePage\obj\Debug\HomePage.exe
+F:\MedicalStore\HomePage\obj\Debug\HomePage.pdb
+F:\MedicalStore\HomePage\obj\Debug\HomePage.Admin.resources
+F:\MedicalStore\HomePage\obj\Debug\HomePage.SignIn.resources
+F:\MedicalStore\HomePage\obj\Debug\HomePage.Registration.resources
+F:\MedicalStore\HomePage\obj\Debug\HomePage.Search.resources
+F:\MedicalStore\HomePage\obj\Debug\HomePage.StorePanel.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\bin\Debug\HomePage.exe.config
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.exe
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.pdb
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\bin\Debug\HomePage.exe
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\bin\Debug\HomePage.pdb
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.csprojResolveAssemblyReference.cache
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Admin.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Form1.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Registration.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Search.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.SignIn.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.StorePanel.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.csproj.GenerateResource.Cache
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Client.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Company.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Sell.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.Stock.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.ForgotPassword.resources
+C:\Users\Dipto\Desktop\Project\MedicalStore\HomePage\obj\Debug\HomePage.ManageAdmin.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\bin\Debug\HomePage.exe.config
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\bin\Debug\HomePage.exe
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\bin\Debug\HomePage.pdb
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\bin\Debug\MetroFramework.dll
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.csprojResolveAssemblyReference.cache
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Admin.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Client.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Company.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.ForgotPassword.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Form1.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.ManageAdmin.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Registration.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Search.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Sell.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.SignIn.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.Stock.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.StorePanel.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.csproj.GenerateResource.Cache
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.csproj.CoreCompileInputs.cache
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.exe
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\HomePage.pdb
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Admin.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Client.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.ForgotPassword.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Form1.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.ManageAdmin.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Registration.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Search.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Sell.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.SignIn.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.Stock.resources
+C:\Users\Fariha Rowshan\Desktop\MedicalStore\HomePage\obj\Debug\InventorySystem.StorePanel.resources
